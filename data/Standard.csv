@@ -1,0 +1,111 @@
+Card,Up,Right,Down,Left,Element
+Geezard,1,4,1,5,neutral
+Funguar,5,1,1,3,neutral
+Bite Bug,1,3,3,5,neutral
+Red Bat,6,1,1,2,neutral
+Blobra,2,3,1,5,neutral
+Gayla,2,1,4,4,lightning
+Gesper,1,5,4,1,neutral
+Fastitocalon-F,3,5,2,1,earth
+Blood Soul,2,1,6,1,neutral
+Caterchipillar,4,2,4,3,neutral
+Cockatrice,2,1,2,6,lightning
+Grat,7,1,3,1,neutral
+Buel,6,2,2,3,neutral
+Mesmerize,5,3,3,4,neutral
+Glacial Eye,6,1,4,3,ice
+Belhelmel,3,4,5,3,neutral
+Thrustaevis,5,3,2,5,wind
+Anacondaur,5,1,3,5,poison
+Creeps,5,2,5,2,lightning
+Grendel,4,4,5,2,lightning
+Jelleye,3,2,1,7,neutral
+Grand Mantis,5,2,5,3,neutral
+Forbidden,6,6,3,2,neutral
+Armadodo,6,3,1,6,earth
+Tri-Face,3,5,5,5,poison
+Fastitocalon,7,5,1,3,earth
+Snow Lion,7,1,5,3,ice
+Ochu,5,6,3,3,neutral
+SAM08G,5,6,2,4,fire
+Death Claw,4,4,7,2,fire
+Cactuar,6,2,6,3,neutral
+Tonberry,3,6,4,4,neutral
+Abyss Worm,7,2,3,5,earth
+Turtapod,2,3,6,7,neutral
+Vysage,6,5,4,5,neutral
+T-Rexaur,4,6,2,7,neutral
+Bomb,2,7,6,3,fire
+Blitz,1,6,4,7,lightning
+Wendigo,7,3,1,6,neutral
+Torama,7,4,4,4,neutral
+Imp,3,7,3,6,neutral
+Blue Dragon,6,2,7,3,poison
+Adamantoise,4,5,5,6,earth
+Hexadragon,7,5,4,3,fire
+Iron Giant,6,5,6,5,neutral
+Behemoth,3,6,5,7,neutral
+Chimera,7,6,5,3,water
+PuPu,3,10,2,1,neutral
+Elastoid,6,2,6,7,mechanical
+GIM47N,5,5,7,4,mechanical
+Malboro,7,7,4,2,poison
+Ruby Dragon,7,2,7,4,fire
+Elnoyle,5,3,7,6,neutral
+Tonberry King,4,6,7,4,neutral
+"Biggs, Wedge",6,6,2,7,neutral
+"Fujin, Raijin",2,8,8,4,neutral
+Elvoret,7,8,3,4,wind
+X-ATM092,4,8,7,3,mechanical
+Granaldo,7,2,8,5,neutral
+Gerogero,1,8,8,3,poison
+Iguion,8,2,8,2,neutral
+Abadon,6,8,4,5,neutral
+Trauma,4,8,5,6,neutral
+Oilboyle,1,8,4,8,neutral
+Shumi Tribe,6,5,8,4,neutral
+Krysta,7,5,8,1,neutral
+Propagator,8,4,4,8,neutral
+Jumbo Cactuar,8,8,4,4,neutral
+Tri-Point,8,5,2,8,lightning
+Gargantua,5,6,6,8,neutral
+Mobile Type 8,8,6,7,3,mechanical
+Sphinxara,8,3,5,8,neutral
+Tiamat,8,8,5,4,neutral
+BGH251F2,5,7,8,5,mechanical
+Red Giant,6,8,5,7,neutral
+Catoblepas,1,8,7,7,neutral
+Ultima Weapon,7,7,2,8,neutral
+Chubby Chocobo,4,4,8,9,neutral
+Angelo,9,6,7,3,neutral
+Gilgamesh,3,7,9,6,neutral
+MiniMog,9,3,9,2,neutral
+Chicobo,9,4,8,4,neutral
+Quezacotl,2,9,9,4,lightning
+Shiva,6,7,4,9,ice
+Ifrit,9,6,2,8,fire
+Siren,8,9,6,2,neutral
+Sacred,5,1,9,9,earth
+Minotaur,9,5,2,9,earth
+Carbuncle,8,4,10,4,neutral
+Diablos,5,10,8,3,neutral
+Leviathan,7,10,1,7,water
+Odin,8,10,3,5,neutral
+Pandemona,10,1,7,7,wind
+Cerberus,7,4,6,10,neutral
+Alexander,9,10,4,2,holy
+Phoenix,7,2,7,10,fire
+Bahamut,10,8,2,6,neutral
+Doomtrain,3,1,10,10,poison
+Eden,4,4,9,10,neutral
+Ward,10,7,2,8,neutral
+Kiros,6,7,6,10,neutral
+Laguna,5,10,3,9,neutral
+Selphie,10,8,6,4,neutral
+Quistis,9,6,10,2,neutral
+Irvine,2,6,9,10,neutral
+Zell,8,5,10,6,neutral
+Rinoa,4,10,2,10,neutral
+Edea,10,10,3,3,neutral
+Seifer,6,9,10,4,neutral
+Squall,10,4,6,9,neutral

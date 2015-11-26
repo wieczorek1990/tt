@@ -1,0 +1,794 @@
+{
+  "Standard": {
+    "1": {
+      "Blobra": {
+        "down": "1",
+        "element": "neutral",
+        "right": "3",
+        "up": "2",
+        "left": "5"
+      },
+      "Caterchipillar": {
+        "down": "4",
+        "element": "neutral",
+        "right": "2",
+        "up": "4",
+        "left": "3"
+      },
+      "Geezard": {
+        "down": "1",
+        "element": "neutral",
+        "right": "4",
+        "up": "1",
+        "left": "5"
+      },
+      "Bite Bug": {
+        "down": "3",
+        "element": "neutral",
+        "right": "3",
+        "up": "1",
+        "left": "5"
+      },
+      "Gayla": {
+        "down": "4",
+        "element": "lightning",
+        "right": "1",
+        "up": "2",
+        "left": "4"
+      },
+      "Red Bat": {
+        "down": "1",
+        "element": "neutral",
+        "right": "1",
+        "up": "6",
+        "left": "2"
+      },
+      "Cockatrice": {
+        "down": "2",
+        "element": "lightning",
+        "right": "1",
+        "up": "2",
+        "left": "6"
+      },
+      "Blood Soul": {
+        "down": "6",
+        "element": "neutral",
+        "right": "1",
+        "up": "2",
+        "left": "1"
+      },
+      "Fastitocalon-F": {
+        "down": "2",
+        "element": "earth",
+        "right": "5",
+        "up": "3",
+        "left": "1"
+      },
+      "Funguar": {
+        "down": "1",
+        "element": "neutral",
+        "right": "1",
+        "up": "5",
+        "left": "3"
+      },
+      "Gesper": {
+        "down": "4",
+        "element": "neutral",
+        "right": "5",
+        "up": "1",
+        "left": "1"
+      }
+    },
+    "2": {
+      "Anacondaur": {
+        "down": "3",
+        "element": "poison",
+        "right": "1",
+        "up": "5",
+        "left": "5"
+      },
+      "Creeps": {
+        "down": "5",
+        "element": "lightning",
+        "right": "2",
+        "up": "5",
+        "left": "2"
+      },
+      "Glacial Eye": {
+        "down": "4",
+        "element": "ice",
+        "right": "1",
+        "up": "6",
+        "left": "3"
+      },
+      "Mesmerize": {
+        "down": "3",
+        "element": "neutral",
+        "right": "3",
+        "up": "5",
+        "left": "4"
+      },
+      "Grat": {
+        "down": "3",
+        "element": "neutral",
+        "right": "1",
+        "up": "7",
+        "left": "1"
+      },
+      "Jelleye": {
+        "down": "1",
+        "element": "neutral",
+        "right": "2",
+        "up": "3",
+        "left": "7"
+      },
+      "Belhelmel": {
+        "down": "5",
+        "element": "neutral",
+        "right": "4",
+        "up": "3",
+        "left": "3"
+      },
+      "Grendel": {
+        "down": "5",
+        "element": "lightning",
+        "right": "4",
+        "up": "4",
+        "left": "2"
+      },
+      "Grand Mantis": {
+        "down": "5",
+        "element": "neutral",
+        "right": "2",
+        "up": "5",
+        "left": "3"
+      },
+      "Buel": {
+        "down": "2",
+        "element": "neutral",
+        "right": "2",
+        "up": "6",
+        "left": "3"
+      },
+      "Thrustaevis": {
+        "down": "2",
+        "element": "wind",
+        "right": "3",
+        "up": "5",
+        "left": "5"
+      }
+    },
+    "3": {
+      "Abyss Worm": {
+        "down": "3",
+        "element": "earth",
+        "right": "2",
+        "up": "7",
+        "left": "5"
+      },
+      "Forbidden": {
+        "down": "3",
+        "element": "neutral",
+        "right": "6",
+        "up": "6",
+        "left": "2"
+      },
+      "Tri-Face": {
+        "down": "5",
+        "element": "poison",
+        "right": "5",
+        "up": "3",
+        "left": "5"
+      },
+      "Tonberry": {
+        "down": "4",
+        "element": "neutral",
+        "right": "6",
+        "up": "3",
+        "left": "4"
+      },
+      "SAM08G": {
+        "down": "2",
+        "element": "fire",
+        "right": "6",
+        "up": "5",
+        "left": "4"
+      },
+      "Fastitocalon": {
+        "down": "1",
+        "element": "earth",
+        "right": "5",
+        "up": "7",
+        "left": "3"
+      },
+      "Cactuar": {
+        "down": "6",
+        "element": "neutral",
+        "right": "2",
+        "up": "6",
+        "left": "3"
+      },
+      "Death Claw": {
+        "down": "7",
+        "element": "fire",
+        "right": "4",
+        "up": "4",
+        "left": "2"
+      },
+      "Ochu": {
+        "down": "3",
+        "element": "neutral",
+        "right": "6",
+        "up": "5",
+        "left": "3"
+      },
+      "Snow Lion": {
+        "down": "5",
+        "element": "ice",
+        "right": "1",
+        "up": "7",
+        "left": "3"
+      },
+      "Armadodo": {
+        "down": "1",
+        "element": "earth",
+        "right": "3",
+        "up": "6",
+        "left": "6"
+      }
+    },
+    "4": {
+      "Torama": {
+        "down": "4",
+        "element": "neutral",
+        "right": "4",
+        "up": "7",
+        "left": "4"
+      },
+      "T-Rexaur": {
+        "down": "2",
+        "element": "neutral",
+        "right": "6",
+        "up": "4",
+        "left": "7"
+      },
+      "Bomb": {
+        "down": "6",
+        "element": "fire",
+        "right": "7",
+        "up": "2",
+        "left": "3"
+      },
+      "Blitz": {
+        "down": "4",
+        "element": "lightning",
+        "right": "6",
+        "up": "1",
+        "left": "7"
+      },
+      "Wendigo": {
+        "down": "1",
+        "element": "neutral",
+        "right": "3",
+        "up": "7",
+        "left": "6"
+      },
+      "Imp": {
+        "down": "3",
+        "element": "neutral",
+        "right": "7",
+        "up": "3",
+        "left": "6"
+      },
+      "Turtapod": {
+        "down": "6",
+        "element": "neutral",
+        "right": "3",
+        "up": "2",
+        "left": "7"
+      },
+      "Hexadragon": {
+        "down": "4",
+        "element": "fire",
+        "right": "5",
+        "up": "7",
+        "left": "3"
+      },
+      "Adamantoise": {
+        "down": "5",
+        "element": "earth",
+        "right": "5",
+        "up": "4",
+        "left": "6"
+      },
+      "Blue Dragon": {
+        "down": "7",
+        "element": "poison",
+        "right": "2",
+        "up": "6",
+        "left": "3"
+      },
+      "Vysage": {
+        "down": "4",
+        "element": "neutral",
+        "right": "5",
+        "up": "6",
+        "left": "5"
+      }
+    },
+    "5": {
+      "Behemoth": {
+        "down": "5",
+        "element": "neutral",
+        "right": "6",
+        "up": "3",
+        "left": "7"
+      },
+      "Elastoid": {
+        "down": "6",
+        "element": "mechanical",
+        "right": "2",
+        "up": "6",
+        "left": "7"
+      },
+      "Biggs, Wedge": {
+        "down": "2",
+        "element": "neutral",
+        "right": "6",
+        "up": "6",
+        "left": "7"
+      },
+      "PuPu": {
+        "down": "2",
+        "element": "neutral",
+        "right": "10",
+        "up": "3",
+        "left": "1"
+      },
+      "Chimera": {
+        "down": "5",
+        "element": "water",
+        "right": "6",
+        "up": "7",
+        "left": "3"
+      },
+      "GIM47N": {
+        "down": "7",
+        "element": "mechanical",
+        "right": "5",
+        "up": "5",
+        "left": "4"
+      },
+      "Tonberry King": {
+        "down": "7",
+        "element": "neutral",
+        "right": "6",
+        "up": "4",
+        "left": "4"
+      },
+      "Elnoyle": {
+        "down": "7",
+        "element": "neutral",
+        "right": "3",
+        "up": "5",
+        "left": "6"
+      },
+      "Ruby Dragon": {
+        "down": "7",
+        "element": "fire",
+        "right": "2",
+        "up": "7",
+        "left": "4"
+      },
+      "Iron Giant": {
+        "down": "6",
+        "element": "neutral",
+        "right": "5",
+        "up": "6",
+        "left": "5"
+      },
+      "Malboro": {
+        "down": "4",
+        "element": "poison",
+        "right": "7",
+        "up": "7",
+        "left": "2"
+      }
+    },
+    "6": {
+      "Krysta": {
+        "down": "8",
+        "element": "neutral",
+        "right": "5",
+        "up": "7",
+        "left": "1"
+      },
+      "Gerogero": {
+        "down": "8",
+        "element": "poison",
+        "right": "8",
+        "up": "1",
+        "left": "3"
+      },
+      "Elvoret": {
+        "down": "3",
+        "element": "wind",
+        "right": "8",
+        "up": "7",
+        "left": "4"
+      },
+      "Shumi Tribe": {
+        "down": "8",
+        "element": "neutral",
+        "right": "5",
+        "up": "6",
+        "left": "4"
+      },
+      "X-ATM092": {
+        "down": "7",
+        "element": "mechanical",
+        "right": "8",
+        "up": "4",
+        "left": "3"
+      },
+      "Oilboyle": {
+        "down": "4",
+        "element": "neutral",
+        "right": "8",
+        "up": "1",
+        "left": "8"
+      },
+      "Abadon": {
+        "down": "4",
+        "element": "neutral",
+        "right": "8",
+        "up": "6",
+        "left": "5"
+      },
+      "Fujin, Raijin": {
+        "down": "8",
+        "element": "neutral",
+        "right": "8",
+        "up": "2",
+        "left": "4"
+      },
+      "Trauma": {
+        "down": "5",
+        "element": "neutral",
+        "right": "8",
+        "up": "4",
+        "left": "6"
+      },
+      "Granaldo": {
+        "down": "8",
+        "element": "neutral",
+        "right": "2",
+        "up": "7",
+        "left": "5"
+      },
+      "Iguion": {
+        "down": "8",
+        "element": "neutral",
+        "right": "2",
+        "up": "8",
+        "left": "2"
+      }
+    },
+    "7": {
+      "Sphinxara": {
+        "down": "5",
+        "element": "neutral",
+        "right": "3",
+        "up": "8",
+        "left": "8"
+      },
+      "Mobile Type 8": {
+        "down": "7",
+        "element": "mechanical",
+        "right": "6",
+        "up": "8",
+        "left": "3"
+      },
+      "BGH251F2": {
+        "down": "8",
+        "element": "mechanical",
+        "right": "7",
+        "up": "5",
+        "left": "5"
+      },
+      "Red Giant": {
+        "down": "5",
+        "element": "neutral",
+        "right": "8",
+        "up": "6",
+        "left": "7"
+      },
+      "Ultima Weapon": {
+        "down": "2",
+        "element": "neutral",
+        "right": "7",
+        "up": "7",
+        "left": "8"
+      },
+      "Gargantua": {
+        "down": "6",
+        "element": "neutral",
+        "right": "6",
+        "up": "5",
+        "left": "8"
+      },
+      "Catoblepas": {
+        "down": "7",
+        "element": "neutral",
+        "right": "8",
+        "up": "1",
+        "left": "7"
+      },
+      "Jumbo Cactuar": {
+        "down": "4",
+        "element": "neutral",
+        "right": "8",
+        "up": "8",
+        "left": "4"
+      },
+      "Tri-Point": {
+        "down": "2",
+        "element": "lightning",
+        "right": "5",
+        "up": "8",
+        "left": "8"
+      },
+      "Propagator": {
+        "down": "4",
+        "element": "neutral",
+        "right": "4",
+        "up": "8",
+        "left": "8"
+      },
+      "Tiamat": {
+        "down": "5",
+        "element": "neutral",
+        "right": "8",
+        "up": "8",
+        "left": "4"
+      }
+    },
+    "8": {
+      "Angelo": {
+        "down": "7",
+        "element": "neutral",
+        "right": "6",
+        "up": "9",
+        "left": "3"
+      },
+      "Chubby Chocobo": {
+        "down": "8",
+        "element": "neutral",
+        "right": "4",
+        "up": "4",
+        "left": "9"
+      },
+      "MiniMog": {
+        "down": "9",
+        "element": "neutral",
+        "right": "3",
+        "up": "9",
+        "left": "2"
+      },
+      "Sacred": {
+        "down": "9",
+        "element": "earth",
+        "right": "1",
+        "up": "5",
+        "left": "9"
+      },
+      "Shiva": {
+        "down": "4",
+        "element": "ice",
+        "right": "7",
+        "up": "6",
+        "left": "9"
+      },
+      "Siren": {
+        "down": "6",
+        "element": "neutral",
+        "right": "9",
+        "up": "8",
+        "left": "2"
+      },
+      "Ifrit": {
+        "down": "2",
+        "element": "fire",
+        "right": "6",
+        "up": "9",
+        "left": "8"
+      },
+      "Chicobo": {
+        "down": "8",
+        "element": "neutral",
+        "right": "4",
+        "up": "9",
+        "left": "4"
+      },
+      "Gilgamesh": {
+        "down": "9",
+        "element": "neutral",
+        "right": "7",
+        "up": "3",
+        "left": "6"
+      },
+      "Quezacotl": {
+        "down": "9",
+        "element": "lightning",
+        "right": "9",
+        "up": "2",
+        "left": "4"
+      },
+      "Minotaur": {
+        "down": "2",
+        "element": "earth",
+        "right": "5",
+        "up": "9",
+        "left": "9"
+      }
+    },
+    "9": {
+      "Eden": {
+        "down": "9",
+        "element": "neutral",
+        "right": "4",
+        "up": "4",
+        "left": "10"
+      },
+      "Phoenix": {
+        "down": "7",
+        "element": "fire",
+        "right": "2",
+        "up": "7",
+        "left": "10"
+      },
+      "Carbuncle": {
+        "down": "10",
+        "element": "neutral",
+        "right": "4",
+        "up": "8",
+        "left": "4"
+      },
+      "Diablos": {
+        "down": "8",
+        "element": "neutral",
+        "right": "10",
+        "up": "5",
+        "left": "3"
+      },
+      "Pandemona": {
+        "down": "7",
+        "element": "wind",
+        "right": "1",
+        "up": "10",
+        "left": "7"
+      },
+      "Doomtrain": {
+        "down": "10",
+        "element": "poison",
+        "right": "1",
+        "up": "3",
+        "left": "10"
+      },
+      "Leviathan": {
+        "down": "1",
+        "element": "water",
+        "right": "10",
+        "up": "7",
+        "left": "7"
+      },
+      "Bahamut": {
+        "down": "2",
+        "element": "neutral",
+        "right": "8",
+        "up": "10",
+        "left": "6"
+      },
+      "Odin": {
+        "down": "3",
+        "element": "neutral",
+        "right": "10",
+        "up": "8",
+        "left": "5"
+      },
+      "Cerberus": {
+        "down": "6",
+        "element": "neutral",
+        "right": "4",
+        "up": "7",
+        "left": "10"
+      },
+      "Alexander": {
+        "down": "4",
+        "element": "holy",
+        "right": "10",
+        "up": "9",
+        "left": "2"
+      }
+    },
+    "10": {
+      "Kiros": {
+        "down": "6",
+        "element": "neutral",
+        "right": "7",
+        "up": "6",
+        "left": "10"
+      },
+      "Rinoa": {
+        "down": "2",
+        "element": "neutral",
+        "right": "10",
+        "up": "4",
+        "left": "10"
+      },
+      "Quistis": {
+        "down": "10",
+        "element": "neutral",
+        "right": "6",
+        "up": "9",
+        "left": "2"
+      },
+      "Irvine": {
+        "down": "9",
+        "element": "neutral",
+        "right": "6",
+        "up": "2",
+        "left": "10"
+      },
+      "Squall": {
+        "down": "6",
+        "element": "neutral",
+        "right": "4",
+        "up": "10",
+        "left": "9"
+      },
+      "Seifer": {
+        "down": "10",
+        "element": "neutral",
+        "right": "9",
+        "up": "6",
+        "left": "4"
+      },
+      "Edea": {
+        "down": "3",
+        "element": "neutral",
+        "right": "10",
+        "up": "10",
+        "left": "3"
+      },
+      "Selphie": {
+        "down": "6",
+        "element": "neutral",
+        "right": "8",
+        "up": "10",
+        "left": "4"
+      },
+      "Ward": {
+        "down": "2",
+        "element": "neutral",
+        "right": "7",
+        "up": "10",
+        "left": "8"
+      },
+      "Zell": {
+        "down": "10",
+        "element": "neutral",
+        "right": "5",
+        "up": "8",
+        "left": "6"
+      },
+      "Laguna": {
+        "down": "3",
+        "element": "neutral",
+        "right": "10",
+        "up": "5",
+        "left": "9"
+      }
+    }
+  }
+}
